@@ -138,7 +138,7 @@ pipeline {
 
 ```
 
-## Trying to deploye the appliaction in kubernate cluster (K8S) then just update last stage in above piple by this 
+## Trying to deploye the appliaction in kubernate cluster (K8S) then just update last stage in above pipeline by this 
 
 ```
 sh """
