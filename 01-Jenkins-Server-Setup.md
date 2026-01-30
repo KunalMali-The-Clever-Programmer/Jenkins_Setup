@@ -55,7 +55,7 @@ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 
 ## DEMO Pipeline
 
-Note - must used the job as a pipeline not free style okk
+Note - must crate the job then select pipeline not free style okk
 ```
 pipeline {
     agent any
